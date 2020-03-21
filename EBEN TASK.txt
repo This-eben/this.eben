@@ -1,0 +1,5 @@
+Fullname: Ebenezer Solomon
+Email: ebenjets@gmail.com
+Slack username: This.eben
+Tracks: Frontend & coding
+Courses: HTML, CSS & JAVASCRIPT
